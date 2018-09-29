@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "63754329345",
+    "firebase_url": "https://veemu-33e81.firebaseio.com",
+    "project_id": "veemu-33e81",
+    "storage_bucket": "veemu-33e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63754329345:android:4ba31d44866b9cb1",
+        "android_client_info": {
+          "package_name": "com.photogram.photogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63754329345-c9d3mpit8mu6q9oq6mnjmvl2ptjc2u87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.photogram.photogram",
+            "certificate_hash": "f8fa2dd3ee3b080e648f80077e7f815405f81ee3"
+          }
+        },
+        {
+          "client_id": "63754329345-mucf82vapkbn2t4kv30docfu6hh953eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwVoEZLWpqDOrnhEOi12I1EkUdIW_yb0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63754329345-mucf82vapkbn2t4kv30docfu6hh953eh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63754329345-bfdscoft4bcf2get4fmm4aqotach82ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodgram"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

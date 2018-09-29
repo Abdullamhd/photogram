@@ -1,0 +1,31 @@
+---
+dependencies:
+  cloud_firestore: "0.8.0"
+  cupertino_icons: ^0.1.2
+  firebase_auth: "0.5.20"
+  firebase_storage: "1.0.2"
+
+
+  flutter:
+    sdk: flutter
+  google_sign_in: "3.0.5"
+  image_picker: "0.4.10"
+description: "A new Flutter application."
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+flutter:
+  assets:
+    - assets/h1.jpg
+    - assets/h2.jpg
+    - assets/h3.jpg
+    - assets/h4.jpg
+    - assets/h5.jpg
+    - assets/h6.jpg
+    - assets/h7.jpg
+    - assets/h8.jpg
+  uses-material-design: true
+name: photogram
+version: 1.0.0+1
