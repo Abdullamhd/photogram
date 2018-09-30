@@ -103,7 +103,8 @@ class _ImagePreviewScreenState extends State<ImagePreviewScreen> {
 
         'uid': widget.user.uid,
         'photoUrl': uriString,
-        'date': FieldValue.serverTimestamp()
+        'date': FieldValue.serverTimestamp() ,
+        'title' : title
       };
 
 
