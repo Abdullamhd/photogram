@@ -115,7 +115,7 @@ class _MainPageState extends State<MainPage> {
       File imageFile = await ImagePicker.pickImage(source: ImageSource.camera);
 
       if (imageFile != null) {
-        // open image preivew screen
+        // open image preview screen
 
         Navigator.push(
           context,
@@ -133,7 +133,6 @@ class _MainPageState extends State<MainPage> {
     //
   }
 }
-
 
 class PhotosItems extends StatefulWidget {
 
